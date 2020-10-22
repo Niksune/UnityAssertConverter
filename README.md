@@ -2,7 +2,7 @@
 
 Converts Unity Assets folders with random names into classical hierarchical named folders. 
 
-So you can easily use the assets bought in the Unity Store outside of Unity
+So you can easily use assets bought in the Unity Store outside of Unity
 
 Works with Poneti's icons set https://assetstore.unity.com/packages/2d/gui/icons/4000-fantasy-icons-163280
 
