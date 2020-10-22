@@ -6,6 +6,8 @@ So you can easily use the assets bought in the Unity Store outside of Unity
 
 Works with Poneti's icons set https://assetstore.unity.com/packages/2d/gui/icons/4000-fantasy-icons-163280
 
+To contact me : nico.benoit*at*gmail.com
+
 ### Make it work ###
 
 * Be sure to have Python installed
